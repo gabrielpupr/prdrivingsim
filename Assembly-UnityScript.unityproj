@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{32F95D27-A06C-984E-4DD2-AA394BF7310F}</ProjectGuid>
+	<ProjectGuid>{2F23CC09-E7F0-A100-5CE4-1932DA463753}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -44,10 +44,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scrips\Car.js" />
-     <Compile Include="Assets\Scrips\cam_follow_Player.js" />
-     <Compile Include="Assets\Scrips\move_car.js" />
-     <Compile Include="Assets\Scrips\move_char.js" />
+     <Compile Include="Assets\Scrips\JavaScripts\Car.js" />
+     <Compile Include="Assets\Scrips\JavaScripts\Not in use\move_char.js" />
+     <Compile Include="Assets\Scrips\JavaScripts\cam_follow_Player.js" />
+     <Compile Include="Assets\Scrips\JavaScripts\move_car.js" />
+     <None Include="Assets\Scrips\CSharpScripts\Csharp Scrips go here please.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
