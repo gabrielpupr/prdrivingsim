@@ -63,7 +63,16 @@ function Update() {
     	}
 }    	
     	
+    	//Proof of concept 
     	
+    	function SlowDownHole()
+    	{
+    	   
+    	   speed= 4.0;
+    	   transform.Translate(Vector3(0,0,Input.GetAxis("Vertical")*speed*Time.deltaTime));
+    	 }
+    	 
+    	 
 //        if (controller.isGrounded) {
 //        
 //            // We are grounded, so recalculate
