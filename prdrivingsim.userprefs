@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scrips\JavaScripts\move_car.js">
+    <Files>
+      <File FileName="Assets\Scrips\CSharpScripts\trigger_console.cs" Line="7" Column="1" />
+      <File FileName="Assets\Scrips\JavaScripts\move_car.js" Line="176" Column="11" />
+      <File FileName="Assets\Scrips\CSharpScripts\cam_rotate_on_Player.cs" Line="82" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
