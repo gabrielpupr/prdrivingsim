@@ -41,7 +41,7 @@ function PlaceRandomGameObjects(){
      {
         // Use Random.Range to grab randomized x,y and z values within our min/max ranges:
         var randomX : int = Random.Range(minX, maxX);
-        var randomY : int = 0.01;//Random.Range(minY, maxY);
+        var randomY : float = 0.001;//Random.Range(minY, maxY);
         var randomZ : int = Random.Range(minZ, maxZ);
  		var pos2 : Vector3 = new Vector3(randomX, randomY, randomZ);
  		while(myArrayList.Contains(pos2) && timeOut <= 10){
