@@ -49,7 +49,10 @@
      <Compile Include="Assets\Scrips\JavaScripts\Generate_Tile.js" />
      <Compile Include="Assets\Scrips\JavaScripts\Place_Prefab.js" />
      <Compile Include="Assets\Scrips\JavaScripts\cam_follow_Player.js" />
+     <Compile Include="Assets\Scrips\JavaScripts\iguanaActions.js" />
+     <Compile Include="Assets\Scrips\JavaScripts\move_car - Copy.js" />
      <Compile Include="Assets\Scrips\JavaScripts\move_car.js" />
+     <Compile Include="Assets\Scrips\JavaScripts\radio_station.js" />
      <None Include="Assets\Scrips\CSharpScripts\Csharp Scrips go here please.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
